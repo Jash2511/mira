@@ -1,4 +1,4 @@
-# Mira-Ex-Jira (MERN)
+# (Mira-Ex-Jira (MERN))[https://mira-ex-jira.vercel.app/]
 
 A minimal Jira-like project/task manager built with the MERN stack. It supports:
 
@@ -112,3 +112,4 @@ Auth is via Bearer token returned by login/signup. The client stores it in `loca
   - This happens when @react-three/fiber v9 gets installed alongside React 18.
   - The project pins @react-three/fiber to a React 18–compatible release (8.x). If you still see the error, delete `client/node_modules` and `client/package-lock.json`, then run `npm install` again in the `client` directory.
 - Node version: use Node 18+ (Node 20/22 is fine). If you use older Node versions, Vite may fail to install.
+
